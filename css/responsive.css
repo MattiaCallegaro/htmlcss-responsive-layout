@@ -14,4 +14,8 @@
     #topbar{
         justify-content: left;
     }
+
+    main{
+        padding: 50px;
+    }
 }
