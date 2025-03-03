@@ -48,8 +48,15 @@
 
     .presentation img{
         float: left;
+        margin-right: 20px;
     }
-
-
    
+}
+
+@media screen and ( min-width:992px){
+    .recipe-title {
+        font-size: 30px;
+      }
+
+
 }
