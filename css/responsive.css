@@ -8,6 +8,10 @@
     .recipe-info{
         padding-top: 100px;
     }
+
+    .btn{
+        min-width: 10%;
+    }
 }
 
 @media screen and ( min-width:768px) {
@@ -88,16 +92,14 @@
 
       footer{
         display: flex;
-        align-content: space-between;
+        justify-content: space-between;
       }
 
       address{
         text-align: left;
       }
 
-      nav{
-       text-align: right;
-      }
+      
 
       
 }
