@@ -58,5 +58,10 @@
         font-size: 30px;
       }
 
-
+      .quick-notes ul {
+        display: flex;
+        flex-direction: column;
+      }
 }
+
+
