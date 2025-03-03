@@ -19,6 +19,10 @@
         justify-content: left;
     }
 
+    .recipe-rating {
+        min-width: 40%;
+      }
+
     main{
         padding: 50px;
     }
@@ -27,8 +31,8 @@
         display: inline-block;
     }
 
-    .recipe-title{
-        font-size: 20px;
+    h2{
+        min-width: 100%;
     }
 
     .quick-notes ul{
@@ -46,6 +50,8 @@
         width: 20%;
     }
 
+    
+
     .ads{
         display: block;
     }
@@ -58,8 +64,8 @@
 }
 
 @media screen and ( min-width:992px){
-    .recipe-title {
-        font-size: 30px;
+       h2 {
+        font-size: 33px;
       }
 
       .quick-notes ul {
