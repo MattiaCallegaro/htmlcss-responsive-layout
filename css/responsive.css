@@ -12,6 +12,11 @@
     .btn{
         min-width: 10%;
     }
+
+    .presentation img{
+      float: left;
+      margin-right: 20px;
+  }
 }
 
 @media screen and ( min-width:768px) {
@@ -56,10 +61,6 @@
         display: block;
     }
 
-    .presentation img{
-        float: left;
-        margin-right: 20px;
-    }
    
 }
 
