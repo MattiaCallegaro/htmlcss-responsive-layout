@@ -99,13 +99,9 @@
       footer{
         display: flex;
         justify-content: space-between;
+        align-items: center;
+        text-align: left
       }
-
-      address{
-        text-align: left;
-      }
-
-      
 
       
 }
